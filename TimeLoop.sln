@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLoop", "TimeLoop.csproj", "{DC15D3AA-7F37-48A4-87C6-7949DE2C40F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC15D3AA-7F37-48A4-87C6-7949DE2C40F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC15D3AA-7F37-48A4-87C6-7949DE2C40F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC15D3AA-7F37-48A4-87C6-7949DE2C40F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC15D3AA-7F37-48A4-87C6-7949DE2C40F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FCE951-280D-4F7B-9646-169F6C14F0C5}
+	EndGlobalSection
+EndGlobal
